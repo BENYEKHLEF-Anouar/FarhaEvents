@@ -8,8 +8,8 @@ Elle offre également aux utilisateurs la possibilité de **consulter leur profi
 ## Fonctionnalités principales
 
 ### Authentification
-- Page de connexion sécurisée  
-- Page d’inscription avec mots de passe hachés  
+- Page de connexion
+- Page d’inscription 
 - Système de session utilisateur
 
 ### Gestion des événements
